@@ -1,12 +1,10 @@
 PRODUCT_PACKAGES += \
-    AvatarPickerPixelOverlay \
     CompanionDeviceManagerOverlay \
     DMServiceOverlay \
     DeviceDiagnosticsOverlay \
     FlipendoOverlay \
     NfcOverlayCommon \
     PixelBatteryHealthOverlay \
-    PixelConfigOverlay2021 \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleFutureFelixOverlay \
     SettingsGoogleOverlayFelix \

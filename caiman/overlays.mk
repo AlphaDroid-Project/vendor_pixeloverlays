@@ -1,5 +1,4 @@
 PRODUCT_PACKAGES += \
-    AvatarPickerPixelOverlay \
     CompanionDeviceManagerOverlay \
     DMServiceOverlay \
     DeviceDiagnosticsOverlay \
@@ -7,9 +6,7 @@ PRODUCT_PACKAGES += \
     NfcOverlayCommon \
     PearlOverlay2024 \
     PixelBatteryHealthOverlay \
-    PixelConfigOverlay2021 \
     PixelDisplayService__caiman__auto_generated_rro_product \
-    PixelSetupWizardOverlay2024 \
     PixelSupportPrebuiltOverlay \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleCaimanOverlay \

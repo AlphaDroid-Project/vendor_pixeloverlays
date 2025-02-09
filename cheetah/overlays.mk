@@ -7,7 +7,6 @@ PRODUCT_PACKAGES += \
     NfcOverlayCheetah \
     NfcOverlayCommon \
     PixelBatteryHealthOverlay \
-    PixelConfigOverlay2021 \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleCheetahOverlay \
     SettingsGoogleFutureCheetahOverlay \

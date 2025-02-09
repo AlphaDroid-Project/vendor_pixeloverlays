@@ -7,7 +7,6 @@ PRODUCT_PACKAGES += \
     NfcOverlayCommon \
     NfcOverlayOriole \
     PixelBatteryHealthOverlay \
-    PixelConfigOverlay2021 \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleOrioleOverlay \
     SettingsGoogleOrioleOverlayRRO \

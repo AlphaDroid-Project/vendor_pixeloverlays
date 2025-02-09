@@ -7,7 +7,6 @@ PRODUCT_PACKAGES += \
     NfcOverlayCommon \
     NfcOverlayPanther \
     PixelBatteryHealthOverlay \
-    PixelConfigOverlay2021 \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleFuturePantherOverlay \
     SettingsGooglePantherOverlay \

@@ -7,7 +7,6 @@ PRODUCT_PACKAGES += \
     NfcOverlayCommon \
     NfcOverlayLynx \
     PixelBatteryHealthOverlay \
-    PixelConfigOverlay2021 \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleFutureLynxOverlay \
     SettingsGoogleLynxOverlay \

@@ -7,7 +7,6 @@ PRODUCT_PACKAGES += \
     NfcOverlayCommon \
     NfcOverlayRaven \
     PixelBatteryHealthOverlay \
-    PixelConfigOverlay2021 \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleRavenOverlay \
     SettingsGoogleRavenOverlayRRO \
